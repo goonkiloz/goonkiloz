@@ -52,8 +52,9 @@ I'm currently building my experience in software engineering, QA automation, and
 ## Links
 
 * LinkedIn: https://www.linkedin.com/in/brendan-fosse-b502b121a/
-* Portfolio: 
+* Portfolio: https://goonkiloz.github.io/
 
+## Extra
 
 - 🔭 I’m currently working on my automation testing skills.
 - 🌱 I’m currently learning automation testing tools like playwright
