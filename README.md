@@ -16,13 +16,13 @@ I also have a background in full-stack web development through App Academy and h
 
 ## Featured Work
 
-### [Stem]([REPO_LINK](https://github.com/goonkiloz/Stem))
+### [Stem](https://github.com/goonkiloz/Stem)
 Full-stack video-sharing application built with React, Node.js, Express, PostgreSQL, Docker, and AWS.
 
-### [AudioSun]([REPO_LINK](https://github.com/goonkiloz/AudioSun))
+### [AudioSun](https://github.com/goonkiloz/AudioSun)
 Full-stack music streaming application built with Flask, Python, React, PostgreSQL, Docker, and AWS.
 
-### [BnB Pro]([REPO_LINK](https://github.com/goonkiloz/bnb-pro-full-build))
+### [BnB Pro](https://github.com/goonkiloz/bnb-pro-full-build)
 Full-stack booking application built with React, Node.js, Express, PostgreSQL, and AWS.
 
 ## Current Goals
