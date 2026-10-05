@@ -22,6 +22,12 @@ Electrical Technician and software developer with experience in industrial autom
 
 ## Featured Projects
 
+### [Sharp Fitness](https://github.com/goonkiloz/sharp-fitness)
+
+Production full-stack fitness coaching platform built with React, Node.js, Express, PostgreSQL, Sequelize, Stripe, AWS S3, Docker, and Render. Includes subscription billing, Stripe Customer Portal integration, webhook synchronization, trainer/client dashboards, protected file delivery, and subscription-based access control.
+
+[Live Site](https://sharpfitness.live/)
+
 ### [Stem](https://github.com/goonkiloz/Stem)
 
 Full-stack video-sharing application built with React, Node.js, Express, PostgreSQL, Docker, and AWS.
